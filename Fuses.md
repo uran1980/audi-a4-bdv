@@ -1,6 +1,9 @@
 # Блок предохранителей
-
-![fuses-audi-a4-b6](https://cloud.githubusercontent.com/assets/1616795/8895005/f27748a4-33ca-11e5-9387-999e516e7080.gif)
+<p align="center">
+    <img  style="max-width:100%;"
+          alt="fuses-audi-a4-b6"
+          src="https://cloud.githubusercontent.com/assets/1616795/8895005/f27748a4-33ca-11e5-9387-999e516e7080.gif" />
+</p>
 
   №   | Значение | Назначение
 ------|----------|-----------------
