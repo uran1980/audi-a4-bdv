@@ -27,18 +27,18 @@ Cylinder head tightening torque 2|60Nm
 Cylinder head tightening torque 3|90°
 Cylinder head tightening torque 4|90°
 Spark plug Tightening torque|30Nm
-Engine oil with filter|5.7l
-Cooling system|8.0l
-Gearbox oil|2.25/3.0l
-Automatic transmission fluid|4.5-5.0l
-Differential|1.3l
-Differential rear|0.9l
-Engine oil grade|VW 504.00 SAE 5W-30
-                |VW 502.00 SAE 5W-30
-                |VW 502.00 SAE 5W-40
-                |VW 502.00 SAE 10W-30
-                |VW 502.00 SAE 10W-40
-                |VW 501.01 SAE 5W-50
+Engine oil with filter|5.7 л.
+Cooling system|8.0 л.
+Gearbox oil|2.25/3.0 л.
+Automatic transmission fluid|4.5-5.0 л.
+Differential|1.3 л.
+Differential rear|0.9 л.
+Моторное масло (Engine oil grade)|VW 504.00 SAE 5W-30
+                                 |VW 502.00 SAE 5W-30
+                                 |VW 502.00 SAE 5W-40
+                                 |VW 502.00 SAE 10W-30
+                                 |VW 502.00 SAE 10W-40
+                                 |VW 501.01 SAE 5W-50
 Gearbox oil grade|VW G 052 911 A SAE 75W-90
 Automatic transmission fluid type|VW G 052 180 A2
 Brake fluid|DOT 4
