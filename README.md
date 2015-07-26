@@ -12,4 +12,5 @@
   </a>
 </p>
 
+* [Спецификации](https://github.com/uran1980/audi-a4-bdv/blob/master/Specifications.md)
 * [Блок предохранителей](https://github.com/uran1980/audi-a4-bdv/blob/master/Fuses.md)
