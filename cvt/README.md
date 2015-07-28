@@ -7,4 +7,5 @@
   </a>
 </p>
 
+* [Описание](https://github.com/uran1980/audi-a4-bdv/blob/master/cvt/description.md)
 * [Адаптация АКПП ВАРИАТОР (MULTITRONIC)](https://github.com/uran1980/audi-a4-bdv/blob/master/cvt/adaptation.md)
