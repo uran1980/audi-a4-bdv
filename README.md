@@ -12,6 +12,11 @@
   </a>
 </p>
 
+# Содержание
 * [Спецификации](https://github.com/uran1980/audi-a4-bdv/blob/master/Specifications.md)
 * [Блок предохранителей](https://github.com/uran1980/audi-a4-bdv/blob/master/Fuses.md)
 * [АКПП ВАРИАТОР (MULTITRONIC)](https://github.com/uran1980/audi-a4-bdv/blob/master/cvt/README.md)
+
+# Полезные ресурсы
+* [Audi A4/S4/RS4/Cabriolet (8E/8H)](http://wiki.ross-tech.com/wiki/index.php/Audi_A4/S4/RS4/Cabriolet_%288E/8H%29) -- wiki.ross-tech.com
+* [Audi A4 2001-2005 - Car Repair Data](http://www.carrepairdata.com/service/repair/manual/eng/audi/a4_2001-2005/)
