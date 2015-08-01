@@ -47,4 +47,5 @@ Wheel bolt tightening torque (B)|120Nm
 
 # Сслыки
 * [Audi A4 2.4 V6](http://www.carrepairdata.com/service/repair/manual/eng/audi/a4/2_4-v6/2001-2004/bdv/2393/125/)
+* [Audi A4/S4/RS4/Cabriolet (8E/8H)](http://wiki.ross-tech.com/wiki/index.php/Audi_A4/S4/RS4/Cabriolet_%288E/8H%29)
 
