@@ -45,3 +45,6 @@ ATF (Automatic transmission fluid type)|VW G 052 180 A2
 Ресурс ГРМ (Timing belt)|120000km
 Wheel bolt tightening torque (B)|120Nm
 
+# Сслыки
+* [Audi A4 2.4 V6](http://www.carrepairdata.com/service/repair/manual/eng/audi/a4/2_4-v6/2001-2004/bdv/2393/125/)
+
