@@ -19,4 +19,4 @@
 
 # Полезные ресурсы
 * [Audi A4/S4/RS4/Cabriolet (8E/8H)](http://wiki.ross-tech.com/wiki/index.php/Audi_A4/S4/RS4/Cabriolet_%288E/8H%29) -- wiki.ross-tech.com
-* [Audi A4 2001-2005 - Car Repair Data](http://www.carrepairdata.com/service/repair/manual/eng/audi/a4_2001-2005/)
+* [Audi A4 2001-2005 - Car Repair Data](http://www.carrepairdata.com/service/repair/manual/eng/audi/a4/2_4-v6/2001-2004/bdv/2393/125/)
